@@ -1,2 +1,2 @@
-This is a basic project on SQL
-Author - Sreepadapermi
+This is a Music data set
+Author - Permi Sreepada Srinivas
